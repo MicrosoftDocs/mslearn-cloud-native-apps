@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@azure/cosmos": "^3.9.2",
-    "next": "9.5.3",
+    "next": "13.3.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "tailwindcss": "^1.9.6"
